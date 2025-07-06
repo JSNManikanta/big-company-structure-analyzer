@@ -1,0 +1,7 @@
+id,firstName,lastName,salary,managerId
+1,BadManager,Low,100000,
+2,EmpOne,Junior,90000,1
+3,EmpTwo,Junior,92000,1
+4,EmpThree,Junior,95000,1
+5,OverpaidManager,High,200000,
+6,EmpFour,Junior,50000,5

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21d44eab-b3f6-4053-bab9-fe200dcba9a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-company-structure-analyzer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/exception/CSVProcessingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/exception/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/reader/EmployeeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/reader/EmployeeReaderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/validator/EmployeeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/structure/validator/EmployeeValidatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/structure/reader/EmployeeReaderImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/structure/service/EmployeeServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/structure/validator/EmployeeValidatorImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/bad_salary_format.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/deep_hierarchy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/empty_file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/invalid_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/missing_column.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/salary_violation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2zNqjCWKAfJCQnTVV0w0EIbORz6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Manikanta/Sample_Projects/workspace_java/big-company-structure-analyzer/src/test/resources",
+    "settings.editor.selected.configurable": "editing.templates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Manikanta\Sample_Projects\workspace_java\big-company-structure-analyzer\src\test\resources" />
+      <recent name="D:\Manikanta\Sample_Projects\workspace_java\big-company-structure-analyzer\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in big-company-structure-analyzer">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.structure.Main" />
+      <module name="big-company-structure-analyzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in big-company-structure-analyzer (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-company-structure-analyzer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in big-company-structure-analyzer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-company-structure-analyzer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeReaderImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-company-structure-analyzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.structure.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.structure.reader" />
+      <option name="MAIN_CLASS_NAME" value="com.company.structure.reader.EmployeeReaderImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeValidatorImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-company-structure-analyzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.structure.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.structure.validator" />
+      <option name="MAIN_CLASS_NAME" value="com.company.structure.validator.EmployeeValidatorImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in big-company-structure-analyzer" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in big-company-structure-analyzer (1)" />
+        <item itemvalue="JUnit.EmployeeReaderImplTest" />
+        <item itemvalue="JUnit.EmployeeValidatorImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21d44eab-b3f6-4053-bab9-fe200dcba9a8" name="Changes" comment="" />
+      <created>1751582018749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751582018749</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
